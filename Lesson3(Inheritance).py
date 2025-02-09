@@ -30,3 +30,13 @@ bicycle = Bicycle(2, 1)
 
 print(f"Engine:\n\tVolume:{m111.volume}\n\tHP:{m111.horse_power}\n\tTorque:{m111.torque}")
 print(f"Car:\n\tWheels:{mercedes.wheels_count}\n\tEngine:{mercedes.engine.volume, mercedes.engine.horse_power}\n\tSeats:{mercedes.seats_count}")
+#учитель вы забыли закрыть код ААААААХХХАХ
+#учитель вы забыли закрыть код ААААААХХХАХ
+#учитель вы забыли закрыть код ААААААХХХАХ
+#учитель вы забыли закрыть код ААААААХХХАХ
+#учитель вы забыли закрыть код ААААААХХХАХ
+#учитель вы забыли закрыть код ААААААХХХАХ
+#учитель вы забыли закрыть код ААААААХХХАХ
+#учитель вы забыли закрыть код ААААААХХХАХ
+
+
